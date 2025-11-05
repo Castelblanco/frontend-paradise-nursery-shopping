@@ -4,6 +4,7 @@ import { create } from 'zustand';
 type TShoppingStore = {
     products: Product[];
     setAddProduct: (product: Product) => void;
+    setQtyProduct: (id: string, qty: number) => void;
     setRemoveProduct: (id: string) => void;
 };
 
@@ -12,6 +13,14 @@ export const useShoppingProducts = create<TShoppingStore>((set, get) => ({
     setAddProduct(product) {
         const { products } = get();
         products.push(product);
+        set({ products });
+    },
+    setQtyProduct(id, qty) {
+        const { products } = get();
+
+        const index = products.findIndex((product) => product.id === id);
+        if (index === -1) return;
+        products[index].qty = qty;
         set({ products });
     },
     setRemoveProduct(id: string) {
