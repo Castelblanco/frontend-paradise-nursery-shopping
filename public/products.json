@@ -1,0 +1,160 @@
+[
+    {
+        "name": "Purifying",
+        "items": [
+            {
+                "id": "69058c5dfc13ae76fe5fe57f",
+                "name": "Button Fern",
+                "price": 6.49,
+                "image": "https://www.provenwinners.com/sites/provenwinners.com/files/imagecache/500x500/ifa_upload/cute_as_a_button.jpg",
+                "description": "A small, charming fern with button-like leaves. Ideal for indoor air purification."
+            },
+            {
+                "id": "69058c5dfc13ae76fe5fe582",
+                "name": "Clinton's Woodfern",
+                "price": 39.99,
+                "image": "https://www.plantdelights.com/cdn/shop/products/Dryopteris-clintoniana.i-2122.s-67130.r-1.jpg?v=1709826224",
+                "description": "A tall, elegant fern that thrives in moist, shaded gardens. Excellent for lush greenery."
+            },
+            {
+                "id": "69058c5dfc13ae76fe5fe586",
+                "name": "Smallstalk Necklace Fern",
+                "price": 18.99,
+                "image": "https://www.thetutuguru.com.au/wp-content/uploads/2024/08/ASPLENIUM-FLABELLIFOLIUM-NECKLACE-FERN.jpg",
+                "description": "Delicate fern with trailing fronds like a necklace. Perfect for hanging pots."
+            }
+        ]
+    },
+    {
+        "name": "Aromatic",
+        "items": [
+            {
+                "id": "69058c5dfc13ae76fe5fe583",
+                "name": "Southern California Draba",
+                "price": 1.89,
+                "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/3868399/large.jpg",
+                "description": "A tiny, fragrant wildflower from California. Adds a soft aroma to rocky gardens."
+            },
+            {
+                "id": "69058c5dfc13ae76fe5fe585",
+                "name": "Johnny-nip",
+                "price": 59.99,
+                "image": "https://calscape.org/storage/app/species_images/calphotos/images/0000_0000_0709_0248.jpeg",
+                "description": "Herbal plant with aromatic leaves. Traditionally used for its pleasant scent."
+            },
+            {
+                "id": "69058c5dfc13ae76fe5fe591",
+                "name": "Harvestbells",
+                "price": 19.99,
+                "image": "https://bugwoodcloud.org/images/768x512/1116111.jpg",
+                "description": "Vibrant purple flowers with a sweet, light fragrance. Attracts butterflies."
+            }
+        ]
+    },
+    {
+        "name": "Aquatic",
+        "items": [
+            {
+                "id": "69058c5dfc13ae76fe5fe587",
+                "name": "Lake Huron Tansy",
+                "price": 2.29,
+                "image": "https://lh3.googleusercontent.com/proxy/OXmAQm78fQUmW50e4t0kxRTpNmdiAAQs_kTT81_FgcrV2I5UgE9OBAq0oIdNCQ6F5CdglkGIReb556thmB9uwNPoLCr3KrbjhNrEdZOfxqYDO5Kim6PvTjpsZg_AU_kgZbKncLg4Fm-E-ICsryBInMYrda4",
+                "description": "A hardy coastal plant with yellow blooms. Grows well near water edges."
+            },
+            {
+                "id": "69058c5dfc13ae76fe5fe58a",
+                "name": "Pondweed",
+                "price": 22.99,
+                "image": "https://cdn11.bigcommerce.com/s-94ve5l/product_images/uploaded_images/clasping-leaf-pondweed.jpg",
+                "description": "Submerged aquatic plant that oxygenates ponds. Provides shelter for fish."
+            }
+        ]
+    },
+    {
+        "name": "Ornamental",
+        "items": [
+            {
+                "id": "69058c5dfc13ae76fe5fe57e",
+                "name": "Blue Boneset",
+                "price": 49.99,
+                "image": "https://images.almostedenplants.com/images/large/Conoclinium%20coelostinum%20Blue%20Mist%20Flower%202015.JPG",
+                "description": "Produces clusters of soft blue flowers. A beautiful addition to garden borders."
+            },
+            {
+                "id": "69058c5dfc13ae76fe5fe580",
+                "name": "Lellingeria",
+                "price": 99.99,
+                "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/79181508/medium.jpeg",
+                "description": "A rare fern with graceful, feathery fronds. Grows well in humid environments."
+            },
+            {
+                "id": "69058c5dfc13ae76fe5fe588",
+                "name": "Cynodon",
+                "price": 34.99,
+                "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/56700332/large.jpeg",
+                "description": "Commonly known as Bermuda grass. Durable and ideal for ornamental lawns."
+            },
+            {
+                "id": "69058c5dfc13ae76fe5fe589",
+                "name": "Columbian Onion",
+                "price": 39.99,
+                "image": "https://mtnhp.org/thumbnail/defaultGen.aspx?itemid=388799&names=Columbia%20Onion%20Allium%20columbianum&copyright=Craig%20Althen&photographer=Craig%20Althen&maxWidth=434&maxHeight=400",
+                "description": "A bulb plant with pink blooms. Native to the Pacific Northwest."
+            },
+            {
+                "id": "69058c5dfc13ae76fe5fe58c",
+                "name": "Geyer's Onion",
+                "price": 49.99,
+                "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/400115/large.jpg",
+                "description": "Produces delicate purple flowers. A hardy ornamental bulb species."
+            },
+            {
+                "id": "69058c5dfc13ae76fe5fe58d",
+                "name": "Gregg's Saddlebush",
+                "price": 29.99,
+                "image": "https://static.inaturalist.org/photos/2540002/large.JPG",
+                "description": "Shrubby plant with silver-green leaves. Attracts bees and hummingbirds."
+            }
+        ]
+    },
+    {
+        "name": "Wild",
+        "items": [
+            {
+                "id": "69058c5dfc13ae76fe5fe584",
+                "name": "Oracle Oak",
+                "price": 2.99,
+                "image": "https://www.internationaloaksociety.org/sites/default/files//pictures/Q.%20xmorehus/Quercus%20morehus%201.png",
+                "description": "A rare hybrid oak known for its resilience. Features deep green, glossy leaves."
+            },
+            {
+                "id": "69058c5dfc13ae76fe5fe58b",
+                "name": "Prickly Hound's Tongue",
+                "price": 2.99,
+                "image": "https://cdn.britannica.com/02/46902-004-6769B417/Hounds-tongue.jpg?w=400&h=300&c=crop",
+                "description": "Wild plant with rough leaves and small purple flowers. Prefers dry soils."
+            },
+            {
+                "id": "69058c5dfc13ae76fe5fe58e",
+                "name": "Glacier Avens",
+                "price": 2.99,
+                "image": "https://www.fs.usda.gov/wildflowers/plant-of-the-week/images/dryasoctopetala/Dryas_octopetala_1_Amadej_Trnkoczy_lg.jpg",
+                "description": "Alpine flower with yellow petals. Grows in rocky, high-altitude areas."
+            },
+            {
+                "id": "69058c5dfc13ae76fe5fe58f",
+                "name": "Strigose Beard Lichen",
+                "price": 3.29,
+                "image": "https://www.backyardnature.net/n/13/131215lj.jpg",
+                "description": "Soft, hanging lichen found on trees. Indicator of clean air environments."
+            },
+            {
+                "id": "69058c5dfc13ae76fe5fe590",
+                "name": "Tanoak",
+                "price": 39.99,
+                "image": "https://www.picturethisai.com/wiki-image/1080/154039319940562964.jpeg",
+                "description": "Evergreen tree with leathery leaves and acorn-like fruits. Native to California."
+            }
+        ]
+    }
+]
