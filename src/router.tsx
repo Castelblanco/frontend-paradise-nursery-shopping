@@ -13,19 +13,14 @@ export const Router = createBrowserRouter([
         element: <PageHome />,
     },
     {
-        path: ROUTES.PRODUCTS,
         element: <Layout />,
         children: [
             {
+                path: ROUTES.PRODUCTS,
                 element: <PageProducts />,
             },
-        ],
-    },
-    {
-        path: ROUTES.SHOPPING,
-        element: <Layout />,
-        children: [
             {
+                path: ROUTES.SHOPPING,
                 element: <PageShopping />,
             },
         ],
