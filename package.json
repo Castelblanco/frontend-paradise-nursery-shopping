@@ -1,13 +1,13 @@
 {
     "name": "paradise-nursery-shopping",
     "private": true,
-    "version": "0.0.0",
+    "version": "1.0.0",
     "type": "module",
     "scripts": {
         "dev": "bunx --bun vite",
         "build": "tsc -b && bunx --bun vite build",
         "lint": "eslint .",
-        "preview": "vite preview"
+        "preview": "bunx --bun vite preview"
     },
     "dependencies": {
         "@emotion/react": "11.14.0",
